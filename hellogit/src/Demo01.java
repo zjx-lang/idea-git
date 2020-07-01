@@ -3,4 +3,9 @@ public class Demo01 {
         System.out.println("hello git" );
         System.out.println("hello git564");
     }
+    public void show(){
+        for(int i=0;i<6;i++){
+            System.out.println(i);
+        }
+    }
 }
