@@ -8,4 +8,7 @@ public class Demo01 {
             System.out.println(i);
         }
     }
+    public void show2(){
+        System.out.println("xiuguile");
+    }
 }
